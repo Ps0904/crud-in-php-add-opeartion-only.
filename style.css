@@ -1,0 +1,38 @@
+/* Your custom CSS styles */
+body {
+  background-color: #f4f4f4;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.card-header h3 {
+  margin-bottom: 0;
+}
+
+.btn {
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 1rem;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+  border-color: #218838;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+  border-color: #545b62;
+}
